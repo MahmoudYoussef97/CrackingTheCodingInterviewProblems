@@ -1,0 +1,12 @@
+D:\repos\CrackingTheCodingInterviewProblems\URLify\bin\Debug\netcoreapp3.1\URLify.exe
+D:\repos\CrackingTheCodingInterviewProblems\URLify\bin\Debug\netcoreapp3.1\URLify.deps.json
+D:\repos\CrackingTheCodingInterviewProblems\URLify\bin\Debug\netcoreapp3.1\URLify.runtimeconfig.json
+D:\repos\CrackingTheCodingInterviewProblems\URLify\bin\Debug\netcoreapp3.1\URLify.runtimeconfig.dev.json
+D:\repos\CrackingTheCodingInterviewProblems\URLify\bin\Debug\netcoreapp3.1\URLify.dll
+D:\repos\CrackingTheCodingInterviewProblems\URLify\bin\Debug\netcoreapp3.1\URLify.pdb
+D:\repos\CrackingTheCodingInterviewProblems\URLify\obj\Debug\netcoreapp3.1\URLify.csprojAssemblyReference.cache
+D:\repos\CrackingTheCodingInterviewProblems\URLify\obj\Debug\netcoreapp3.1\URLify.AssemblyInfoInputs.cache
+D:\repos\CrackingTheCodingInterviewProblems\URLify\obj\Debug\netcoreapp3.1\URLify.AssemblyInfo.cs
+D:\repos\CrackingTheCodingInterviewProblems\URLify\obj\Debug\netcoreapp3.1\URLify.dll
+D:\repos\CrackingTheCodingInterviewProblems\URLify\obj\Debug\netcoreapp3.1\URLify.pdb
+D:\repos\CrackingTheCodingInterviewProblems\URLify\obj\Debug\netcoreapp3.1\URLify.genruntimeconfig.cache
