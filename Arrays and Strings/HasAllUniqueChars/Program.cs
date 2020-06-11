@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace Arrays_and_Strings
+namespace HasAllUniqueChars
 {
     class Program
     {
-        static void Main(string[] args)
+        static void HasAllUnique(string[] args)
         {
             // Read input as a string
             string input = Console.ReadLine();

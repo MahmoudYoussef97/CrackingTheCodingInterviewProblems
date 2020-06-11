@@ -4,7 +4,7 @@ namespace URLify
 {
     class Program
     {
-        static void Main(string[] args)
+        static void URLify(string[] args)
         {
             var str = Console.ReadLine();
             int trueLength = Convert.ToInt32(Console.ReadLine());

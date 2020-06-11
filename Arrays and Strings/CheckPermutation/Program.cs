@@ -2,9 +2,9 @@
 
 namespace CheckPermutation
 {
-    class Program
+    public class Permutation
     {
-        static void Main(string[] args)
+        static void PermutationProblem(string[] args)
         {
             string[] inputs = Console.ReadLine().TrimEnd().Split(' ');
             var str1 = inputs[0];
