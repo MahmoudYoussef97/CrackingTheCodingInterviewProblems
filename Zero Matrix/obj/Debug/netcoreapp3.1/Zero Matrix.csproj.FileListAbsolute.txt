@@ -1,0 +1,11 @@
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\bin\Debug\netcoreapp3.1\Zero Matrix.exe
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\bin\Debug\netcoreapp3.1\Zero Matrix.deps.json
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\bin\Debug\netcoreapp3.1\Zero Matrix.runtimeconfig.json
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\bin\Debug\netcoreapp3.1\Zero Matrix.runtimeconfig.dev.json
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\bin\Debug\netcoreapp3.1\Zero Matrix.dll
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\bin\Debug\netcoreapp3.1\Zero Matrix.pdb
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\obj\Debug\netcoreapp3.1\Zero Matrix.AssemblyInfoInputs.cache
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\obj\Debug\netcoreapp3.1\Zero Matrix.AssemblyInfo.cs
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\obj\Debug\netcoreapp3.1\Zero Matrix.dll
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\obj\Debug\netcoreapp3.1\Zero Matrix.pdb
+D:\repos\CrackingTheCodingInterviewProblems\Zero Matrix\obj\Debug\netcoreapp3.1\Zero Matrix.genruntimeconfig.cache

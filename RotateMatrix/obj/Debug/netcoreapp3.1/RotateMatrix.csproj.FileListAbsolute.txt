@@ -1,0 +1,12 @@
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.exe
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.deps.json
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.runtimeconfig.json
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.runtimeconfig.dev.json
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.dll
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\bin\Debug\netcoreapp3.1\RotateMatrix.pdb
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.csprojAssemblyReference.cache
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.AssemblyInfoInputs.cache
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.AssemblyInfo.cs
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.dll
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.pdb
+D:\repos\CrackingTheCodingInterviewProblems\RotateMatrix\obj\Debug\netcoreapp3.1\RotateMatrix.genruntimeconfig.cache
