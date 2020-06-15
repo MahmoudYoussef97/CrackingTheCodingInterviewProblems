@@ -9,3 +9,4 @@ D:\repos\CrackingTheCodingInterviewProblems\bin\Debug\netcoreapp3.1\CrackingCodi
 D:\repos\CrackingTheCodingInterviewProblems\obj\Debug\netcoreapp3.1\CrackingCodingInterviewsProblems.dll
 D:\repos\CrackingTheCodingInterviewProblems\obj\Debug\netcoreapp3.1\CrackingCodingInterviewsProblems.pdb
 D:\repos\CrackingTheCodingInterviewProblems\obj\Debug\netcoreapp3.1\CrackingCodingInterviewsProblems.genruntimeconfig.cache
+D:\repos\CrackingTheCodingInterviewProblems\obj\Debug\netcoreapp3.1\CrackingCodingInterviewsProblems.csprojAssemblyReference.cache
