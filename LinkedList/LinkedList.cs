@@ -8,7 +8,7 @@ namespace CrackingCodingInterviewsProblems.LinkedList
     {
         private Node head;
         private Node tail;
-        private class Node
+        public class Node
         {
             public Node next = null;
             public T data;
@@ -197,6 +197,10 @@ namespace CrackingCodingInterviewsProblems.LinkedList
                 tail = null;
             }
             return;
+        }
+        public Node GetHead()
+        {
+            return head;
         }
     }
 }
